@@ -17,7 +17,7 @@
 </p><br>
 <h3 align="center"><b>🫧About Me🫧</h3><br>
   <p align="center">
-  <A href = "https://www.instagram.com/e_rase._/" target = "URL " > <IMG src ="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=whit"> </A>
+  <A href="https://www.instagram.com/e_rase._/" target = "URL " ><IMG src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></A>
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
