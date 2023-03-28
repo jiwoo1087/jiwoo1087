@@ -1,4 +1,4 @@
-<h1 align="center"><b>💗Jiwoo Kim☘️</h1><br>
+<h1 align="center"><b>Jiwoo Kim</h1><br>
  <h3 align="center">✨Welcome to My Github✨</h3><br>
  <h3 align="center"><b>📑Studying📑</h3><br>
  <p align="center">
@@ -19,7 +19,7 @@
   <img src="https://img.shields.io/badge/Unity-gray?style=flat-square&logo=Unity&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
 </p><br>
-<h3 align="center"><b>🫧About Me🫧</h3><br>
+<h3 align="center"><b>🍀About Me🍀</h3><br>
   <p align="center">
   <A href="https://www.instagram.com/e_rase._/" target = "URL " ><IMG src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"></A>
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp 
