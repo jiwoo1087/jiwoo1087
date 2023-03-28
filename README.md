@@ -1,4 +1,4 @@
-<h1 align="center"><b>Jiwoo Kim</h1><br>
+<h1 align="center"><b>🌷Jiwoo Kim🌷</h1><br>
  <h3 align="center">✨Welcome to My Github✨</h3><br>
  <h3 align="center"><b>📑Studying📑</h3><br>
  <p align="center">
